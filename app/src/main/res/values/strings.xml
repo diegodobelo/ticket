@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicketMaster</string>
+    <string name="city_input_label">City</string>
+    <string name="no_content_found">No content found</string>
+</resources>
